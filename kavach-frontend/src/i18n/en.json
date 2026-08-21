@@ -1,0 +1,43 @@
+{
+  "app": {
+    "name": "Kavach",
+    "tagline": "Disaster Awareness & Preparedness"
+  },
+  "nav": {
+    "home": "Home",
+    "events": "Events",
+    "dosDonts": "Do's & Don'ts",
+    "authorities": "Authorities",
+    "pastDisasters": "Past Disasters",
+    "askAi": "Ask AI",
+    "admin": "Admin"
+  },
+  "home": {
+    "greeting": "Stay Safe, Stay Prepared",
+    "subtitle": "Your district-level disaster awareness hub",
+    "searchPlaceholder": "Enter your district...",
+    "activeAlerts": "Active Alerts",
+    "upcomingDrills": "Upcoming Drills",
+    "registrations": "Registrations",
+    "reliefCamps": "Relief Camps Nearby",
+    "nearestShelter": "Nearest Shelter",
+    "register": "Register",
+    "registered": "Registered",
+    "viewAll": "View All"
+  },
+  "login": {
+    "title": "Welcome to Kavach",
+    "subtitle": "Enter your details to get started",
+    "namePlaceholder": "Your name",
+    "login": "Get Started"
+  },
+  "events": {
+    "title": "Events & Drills",
+    "noEvents": "No events found"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "back": "Back"
+  }
+}

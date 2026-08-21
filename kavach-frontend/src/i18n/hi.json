@@ -1,0 +1,43 @@
+{
+  "app": {
+    "name": "कवच",
+    "tagline": "आपदा जागरूकता और तैयारी"
+  },
+  "nav": {
+    "home": "होम",
+    "events": "कार्यक्रम",
+    "dosDonts": "करें और न करें",
+    "authorities": "अधिकारी",
+    "pastDisasters": "पिछली आपदाएं",
+    "askAi": "AI से पूछें",
+    "admin": "प्रशासन"
+  },
+  "home": {
+    "greeting": "सुरक्षित रहें, तैयार रहें",
+    "subtitle": "आपका जिला-स्तरीय आपदा जागरूकता केंद्र",
+    "searchPlaceholder": "अपना जिला दर्ज करें...",
+    "activeAlerts": "सक्रिय अलर्ट",
+    "upcomingDrills": "आगामी अभ्यास",
+    "registrations": "पंजीकरण",
+    "reliefCamps": "आसपास राहत शिविर",
+    "nearestShelter": "निकटतम आश्रय",
+    "register": "पंजीकरण करें",
+    "registered": "पंजीकृत",
+    "viewAll": "सभी देखें"
+  },
+  "login": {
+    "title": "कवच में आपका स्वागत है",
+    "subtitle": "शुरू करने के लिए अपना विवरण दर्ज करें",
+    "namePlaceholder": "आपका नाम",
+    "login": "शुरू करें"
+  },
+  "events": {
+    "title": "कार्यक्रम और अभ्यास",
+    "noEvents": "कोई कार्यक्रम नहीं मिला"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "कुछ गड़बड़ हुई",
+    "back": "वापस"
+  }
+}
